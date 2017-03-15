@@ -11,3 +11,6 @@ Tous les membres de la formation.
 
 ## Auteur
 C'est moi: Laurent
+
+## Remerciements
+Merci à toutes et à tous
