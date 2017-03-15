@@ -9,6 +9,9 @@ Principe du jeu à décrire ici
 ### Participants
 Tous les membres de la formation.
 
+## Branche jeu
+Une première branche avec un moteur
+
 ## Auteur
 C'est moi: Laurent
 
